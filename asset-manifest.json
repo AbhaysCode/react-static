@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-static/static/css/main.c25b0751.css",
+    "main.js": "/react-static/static/js/main.5a3dd8f4.js",
+    "static/media/Screenshot 2022-10-22 022354.png": "/react-static/static/media/Screenshot 2022-10-22 022354.871eab1b69fff7ee25f0.png",
+    "index.html": "/react-static/index.html",
+    "main.c25b0751.css.map": "/react-static/static/css/main.c25b0751.css.map",
+    "main.5a3dd8f4.js.map": "/react-static/static/js/main.5a3dd8f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c25b0751.css",
+    "static/js/main.5a3dd8f4.js"
+  ]
+}
