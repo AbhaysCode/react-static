@@ -1,0 +1,12 @@
+.App{
+  height:100vh;
+  background-image: url("../public/Screenshot 2022-10-22 022354.png");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+  background-color:rgba(0, 0, 0, 0.616);
+  color:white;
+}
+.section{
+  margin:auto;
+}

@@ -1,0 +1,14 @@
+.content{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    margin-top:20vh;
+}
+ul li h4{
+    margin:0;
+    font-family:cursive;
+}
+li::marker{
+    color:cyan;
+}

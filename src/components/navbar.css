@@ -1,0 +1,18 @@
+nav{
+    display:flex;
+    justify-content:space-between;
+    padding:2px 15px;
+    background-color:black;
+    font-family:cursive;
+    align-items:center;
+}
+nav div{
+    display:flex;
+    color:cyan;
+}
+h3{
+    color:white;
+}
+img{
+    width:65px;
+}
